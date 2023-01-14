@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Setting"
+        android:id="@+id/setting"
+        >
+        <menu >
+            <item android:title="abc"
+                android:id="@+id/abc"
+                />
+            <item android:title="brightness"
+                android:id="@+id/brightness"/>
+        </menu>
+    </item>
+    <item android:title="about"
+        android:id="@+id/about"/>
+    <item android:title="ok"
+        android:id="@+id/ok"/>
+</menu>
